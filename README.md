@@ -2,7 +2,7 @@
 
 Yeah, someone actually made this
 
-##Install instructions
+## Install instructions
 
 ### The easy way
 Compress the contents of this directory into a zip and read up on how to install browser extensions from ZIP files for your browser
