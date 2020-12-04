@@ -1,0 +1,21 @@
+{
+
+    "manifest_version": 2,
+    "name": "UwUify",
+    "version": "1.0",
+  
+    "description": "Will make all pages twanswated to UwU wanguage",
+  
+    "permissions": [
+        "activeTab"
+    ],
+
+    "browser_action": {
+        "browser_style": true,
+        "default_popup": "options.html",
+        "default_icon": {
+          "128": "icon.png"
+        }
+      }
+  
+  }
