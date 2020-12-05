@@ -2,6 +2,8 @@
 
 Yeah, someone actually made this
 
-## Install instructions
+It just makes your pages into UwU language
 
-I might figure out of it at some point. This doesn't support chrome properly yet.
+Links to the plugin on the chrome web store are coming soon
+
+If you want to build this yourself download it and just use the folder as the install for when selecting "Load Unpacked extension...". Make sure to have developer mode enabled.
